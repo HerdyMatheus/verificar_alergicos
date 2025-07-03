@@ -33,9 +33,12 @@ Responda com frases curtas, mas explicativas para cada um, por exemplo:
 "Aveia: Pode conter, dependendo da marca."
 ... e assim por diante.
 
+Exibia primeiramente, esse produto é alergico para: (Exibir se tiver algum), e abaixo contendo a explicação.
 Se não houver informação, diga que não foi possível determinar.
 Coloque um ícone na frente de cada alergenico  para que fique mais amigavel ao usuário.
 Caso seja um produto industrializado exiba a tabela nutricional daquele produto de forma sucinta e pratica. 
+
+
 
 EOT;
 

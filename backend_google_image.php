@@ -1,5 +1,5 @@
 <?php
-// CONFIGURAÇÕES
+
 $apiKey = 'AIzaSyCaoNYBFqrmSpvscy-cfpuKKGv7sRlxAv0';
 $cx = '04633fbd8fbaa4714';
 
