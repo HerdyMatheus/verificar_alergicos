@@ -35,7 +35,6 @@ if ($dados_world) {
     }
 }
 
-// SE NÃO ENCONTRAR EM NENHUM DOS DOIS
 echo json_encode([
     "erro" => "❌ Código de barras não encontrado. Este código não está presente em nossa base de dados.",
     "sugestao" => "💡 Tente buscar pelo nome do produto para obter melhores resultados."
