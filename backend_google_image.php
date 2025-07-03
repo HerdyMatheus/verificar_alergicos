@@ -1,7 +1,7 @@
 <?php
 
-$apiKey = 'AIzaSyCaoNYBFqrmSpvscy-cfpuKKGv7sRlxAv0';
-$cx = '04633fbd8fbaa4714';
+$apiKey = 'CHAVE_GEMINI';
+$cx = 'CHAVE_CX';
 
 header('Content-Type: application/json');
 

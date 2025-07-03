@@ -13,7 +13,7 @@ if (!$produto) {
     exit;
 }
 
-$chave_api = "AIzaSyCaoNYBFqrmSpvscy-cfpuKKGv7sRlxAv0"; // Substitua pela sua chave Gemini
+$chave_api = "CHAVE_GEMINI"; // Substitua pela sua chave Gemini
 $url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$chave_api";
 
 $prompt = <<<EOT
